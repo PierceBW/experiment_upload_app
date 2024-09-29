@@ -32,8 +32,6 @@ The **Experiment Data Collection App** is built to help lab technicians efficien
 
 ## 📸 Screenshots
 
-*Here you can add images of your app in action, like so:*
-
 ![Main Screen](./screenshots/main_screen.png)
 ![Upload Feature](./screenshots/upload_feature.png)
 
